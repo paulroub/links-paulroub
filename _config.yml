@@ -21,6 +21,7 @@ instagram_username: "paulroub"
 # pinterest_username: "my_pinterest_username"
 # threads_username: "my_threads_username"
 # tiktok_username: "my_tiktok_username"
+facebook_username: "paulroubmusic"
 # venmo_username: "my_venmo_username"
 # youtube_username: "my_youtube_username"
 
@@ -45,10 +46,11 @@ exclude:
     - scripts
 
 linky:
-    body_background: "#030303"
-    body_foreground: "#F0F0F0"
-    button_background: "#f16293"
-    social_button_color: "#ffffff"
+    body_background: "#f0cc98"
+    body_foreground: "#333"
+    button_background: "#fff"
+    button_foreground: "#333"
+    social_button_color: "#333"
 
 collections:
     - links
