@@ -1,12 +1,12 @@
-title: Linky Template
+title: Paul Roub - Links
 subheads:
-    - "Catchy little tagline (one or more)"
+    - "Places you might want to go if we met at a gig"
 
-email: email@example.com
+email: paul@paulroub.com
 description: >-
-    A brief description of your site
+    Places you might want to go if we met at a gig
 baseurl: ""
-url: "https://example.com/"
+url: "https://links.paulroub.com/"
 
 # uncomment and fill in any social IDs you want linked from the top of your page
 
@@ -16,7 +16,7 @@ url: "https://example.com/"
 # cashapp_username: "my_cashapp_username"
 # discord_username: "my_discord_username"
 # github_username: "my_github_username"
-# instagram_username: "my_instagram_username"
+instagram_username: "paulroub"
 # mastodon_username: "@username@example.host"
 # pinterest_username: "my_pinterest_username"
 # threads_username: "my_threads_username"
@@ -34,6 +34,8 @@ url: "https://example.com/"
 theme: jekyll-theme-linky
 plugins:
     - jekyll-feed
+
+github_username: false
 
 exclude:
     - VERSION
